@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBTestSession.m \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBTestSession.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSession.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBTestSession+Internal.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSessionManualTokenCachingStrategy.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSessionTokenCachingStrategy.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBAccessTokenData.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBError.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSession+Protected.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSession+Internal.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSystemAccountStoreAdapter.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSessionInsightsState.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBRequest.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBRequestConnection.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphObject.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/JSON/FBSBJSON.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/JSON/FBSBJsonParser.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/JSON/FBSBJsonBase.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/JSON/FBSBJsonWriter.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphUser.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphPlace.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphLocation.h

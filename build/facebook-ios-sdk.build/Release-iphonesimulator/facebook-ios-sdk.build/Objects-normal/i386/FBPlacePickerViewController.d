@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBPlacePickerViewController.m \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBError.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphObjectPagingLoader.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphObjectTableDataSource.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphObject.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphObjectTableSelection.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBInsights+Internal.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBInsights.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSession.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBLogger.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBPlacePickerViewController.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphPlace.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBGraphLocation.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBCacheDescriptor.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBViewController.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBRequest.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBRequestConnection.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBUtility.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBFetchedAppSettings.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBPlacePickerCacheDescriptor.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSession+Internal.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSystemAccountStoreAdapter.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSessionInsightsState.h \
+  /Users/mikeschiff/work/iPhone/FacebookSDK/src/FBSettings.h
